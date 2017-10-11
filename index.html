@@ -1,0 +1,356 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<!-- Basic Page Needs
+================================================== -->
+<title>Home</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Mobile Specific Metas 
+================================================== -->
+<meta content="width=device-width,initial-scale=1" name="viewport">
+
+<!-- Favicons
+================================================== -->
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+<!--fonts
+====================================================-->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cOswald:400,700" rel="stylesheet">
+<!--stylesheets
+====================================================-->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">  
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/simpletextrotator.css"> 
+
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<script src="js/jquery.min.js"></script> <!-- JQUERY -->
+</head>
+<body>
+
+<!--FRONT PAGE/ SPLASH SCREEN SECTION-->
+
+<div class="loading-screen"></div>
+
+<div id="frontpage"> 
+	<div class="shadow-img"></div> 
+	<img src="images/front-image.jpg" class="front-img img-responsive" alt ="Front-image"><!--IMAGE FOR FRONT SCREEN-->
+	<h1>李<span class="invert">曼祎</span></h1><!--PROFILE NAME-->
+	<h3 class="invert" style="margin-top: -10px; margin-bottom: 10px;"><span class="rotate">Manyi Li</span></h3> <!--SUBTITLE IN PROFILE-->
+	<div class="frontclick"><img src="images/click.png" alt="" class="img-responsive"><span class="pulse"></span></div>
+</div>
+<!--FRONT PAGE/ SPLASH SCREEN SECTION ENDS-->
+<!--container-->
+<div class="container">
+	<div id="content" class="row hidden">
+		<div class="col-sm-4">
+			<!--namecard-->
+			<div id="namecard" class="namecard">
+				<div class="shadow-img"></div>
+				<h1 class="maintitle">李<span class="invert">曼祎</span></h1><!--PROFILE NAME-->
+				<h3 class="invert sub-maintitle"> 
+					<span class="rotate">Manyi Li</span><!--SUBTITLE AFTET NAME-->
+				</h3>
+				<img id="profile-img" class="profile-img transparent" src="images/profile-thum.png" alt="profile-image"><!--PROFILE IMAGE-->
+			</div><!--/#namecard-->
+			<!--menu-->
+			<div id="menu-container">
+				<!--PAGE MENU-->
+				<ul class="nav-menu no-padding">
+					<li class="nav-btn selected" title="Home" data-page="home">
+						<div class="hover-background"></div>
+						<span>Home</span><i class="fa fa-user fa-fw"></i>
+					</li>
+					<li class="nav-btn" id="resume-btn" title="Resume"  data-page="resume">
+						<div class="hover-background"></div>
+						<span>Resume</span><i class="fa fa-file-text fa-fw"></i>
+					</li>
+				   <li class="nav-btn folio-btn" data-filter="*" title="Portfolio" data-page="portfolio">
+						<div class="hover-background"></div>
+						<span>Research</span><i class="fa fa-suitcase fa-fw"></i>
+					</li>
+					<li class="nav-btn" title="Contact" id="contact-link" data-page="contact">
+						<div class="hover-background"></div>
+						<span>Contact</span><i class="fa fa-paper-plane fa-fw"></i>
+					</li>
+				</ul><!--/.nav-menu __PAGE MENU ENDS-->
+
+				<!--SOCIAL NAV MENU-->
+				<!--<div class="social-menu-container">
+					<ul class="social-menu no-padding">                     
+						<li><a href=""><i class="fa fa-facebook"></i></a></li>
+						<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+						<li><a href=""><i class="fa fa-youtube"></i></a></li>
+						<li><a href=""><i class="fa fa-pinterest-p"></i></a></li>
+						<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+					</ul>
+				</div>--><!--/.social-menu-container-->
+			</div><!--#menu-container-->
+		</div>
+		<div class="col-sm-8 page-segment">
+			<ul class="page-container no-padding">
+				<!--HOME/PROFILE PAGE-->
+				<li id="home" class="selected">
+					<div class="title-container hidden">
+						<div class="shadow-img"></div> 
+						<h2 class="rotate-out">Welcome To <span class="invert">My Profile</span></h2><!--HOME TITLE-->                          
+					</div>
+					<div class="description hidden">
+						<div class="watermark-home"></div> 
+
+						<div class="fade-text transparent">
+							<!--DESCRIPTION ON HOME-->
+							<div class="strong-text">Hello, I am <span>Manyi Li</span></div>
+							<div class="focus-text"><span>Ph.D Student</span></div>
+							<p class="large-paragraph">I'm a Ph.D student from the School of Computer Science in Shandong University. My research focus on Computer Graphics, especially on the Representation of 3D Objects and Scenes. Currently I'm visiting GrUVi lab in Simon Fraser University for one year.</p>         
+							<!--DESCRIPTION ON HOME ENDS-->
+						</div>
+
+						<!--ALL PERSONAL DETAILS-->
+						<h3 class="personal-info-title title">Personal Info</h3>
+						<ul class="personal-info">
+							<li class="rotate-out rotated"><label>Name</label><span>Manyi Li</span></li>                     
+							<li class="rotate-out rotated"><label>Email</label><span>manyi_li163@163.com</span></li>  
+							<li class="rotate-out rotated"><label>Phone</label><span>+86 15216403215</span></li>
+						</ul><!--/ul.personal-info-->
+					</div>
+				</li><!--/#home-->
+
+				<!--RESUME PAGE-->
+				<li id="resume" class="hidden">
+					<div class="title-container">
+						<div class="shadow-img"></div>
+						<h2 class="rotate-out rotated"><span class="invert">Resume Of</span> Manyi Li</h2> <!--RESUME TITLE-->
+					</div>
+					<div class="description">
+
+						<div class='tabs tabs_animate'>
+							<!--RESUME TAB LISTS-->
+							<ul class='horizontal no-padding'>
+								<li><a href="#tab-1" class="icon-bg icon-skills"><div>Educations</div></a></li>
+								<li><a href="#tab-2" class="icon-bg icon-education"><div>Experiences</div></a></li>
+								<li><a href="#tab-3" class="icon-bg icon-employment"><div>Awards</div></a></li>
+							</ul><!--RESUME TAB LISTS ENDS-->
+							
+							<!--RESUME SECOND TAB/EDUCATION TAB DETAILS-->
+							<div id='tab-1'>
+								<h3 class="title">EDUCATIONS</h3>
+								<ul class="education-class">
+									<li>
+										<!--EDUCATION LIST ITEM-->
+										<h4 class="title">Ph.D student in Computer Science<i class="fa fa-sort-desc pull-right"></i></h4>
+										<div class="list-content">
+											<h5 class="title">Shandong University <span class="list-year">(2013 - now)</span></h5>
+											<p>Now I'm doing my Ph.D in College of Computer Science and Technology in SDU. My supervisor is Prof. Changhe Tu.</p><!--EDUCATION LIST DETAILS-->
+										</div>
+									</li>
+									<li>
+										<!--EDUCATION LIST ITEM-->
+										<h4 class="title">B.Eng. in Software Engineering<i class="fa fa-sort-desc pull-right"></i></h4>
+										<div class="list-content current">
+											<h5 class="title">Shandong University <span class="list-year">(2009 - 2013)</span></h5>
+											<p>I got my B.Eng. degree in School of Software with my GPA being 90.11. And I joined the Android Interest Group, where I developed several mobile apps with my friends and started to be interested in Computer Graphics. </p><!--EDUCATION LIST DETAILS-->
+										</div>
+									</li>
+									<li>
+										<!--EDUCATION LIST ITEM-->
+										<h4 class="title">B.S. in Information Security (Secondary Degree)<i class="fa fa-sort-desc pull-right"></i></h4>
+										<div class="list-content">
+											<h5 class="title">Shandong University <span class="list-year">(2009 - 2013)</span></h5>
+											<p>I earned my B.S. degree as a secondary degree in School of Mathematics in SDU. </p><!--EDUCATION LIST DETAILS-->
+										</div>
+									</li>
+								</ul>
+							</div><!--RESUME SECOND TAB/EDUCATION TAB DETAILS ENDS-->
+							
+							<!--RESUME FIRST TAB/SKILL TAB DETAILS-->
+							<!--<div id='tab-2'>
+								<h3 class="title">Educations</h3>
+								<ul class="skills-list no-padding">
+									<li class="row">
+										<div class="col-xs-2"><div class="fw-mid">HTML</div></div>
+										<div class="col-xs-9">
+											<div class="bar">
+												<div class="percentage" id="bar1" style="width: 58%;"></div>
+											</div>
+										</div>
+									</li>
+									<li class="row">
+										<div class="col-xs-2"><div class="fw-mid">CSS</div></div>
+										<div class="col-xs-9">
+											<div class="bar">
+												<div class="percentage" id="bar2" style="width: 75%;"></div>
+											</div>
+										</div>
+									</li>
+									<li class="row">
+										<div class="col-xs-2"><div class="fw-mid">Javascript</div></div>
+										<div class="col-xs-9">
+											<div class="bar">
+												<div class="percentage" id="bar3" style="width: 85%;"></div>
+											</div>
+										</div>
+									</li>
+								</ul>
+
+								<div class="circle-skill-container">
+									<h3 class="title">OTHER SKILLS</h3>
+									<div class="row">
+										<div class="col-xs-4 center-align">
+											<div class="circle-bar" id="line-container1">
+												<div class="progressbar-text" id="progress-text1">0</div>
+											</div>
+											<h5>Photoshop</h5>
+										</div>
+										<div class="col-xs-4 center-align">
+											<div class="circle-bar" id="line-container2">
+												<div class="progressbar-text" id="progress-text2">0</div>
+											</div>
+											<h5>Illustrator</h5>
+										</div>
+										<div class="col-xs-4 center-align">
+											<div class="circle-bar" id="line-container3">
+												<div class="progressbar-text" id="progress-text3">0</div>
+											</div>
+											<h5>After effect</h5>
+										</div>
+									</div>
+								</div>
+							</div>--><!--RESUME FIRST TAB/SKILL TAB DETAILS ENDS-->
+							
+							<!--RESUME THIRD TAB/EMPLYMENT TAB DETAILS ENDS-->
+							<div id='tab-2'>
+								<h3 class="title">EXPERIENCES</h3>
+								<ul class="employment-class tab-cont">
+									<li>
+										<!--EMPLOYMENT INDIVIDUAL LIST-->
+										<h5>Visiting HKU <span class="year">2013.11 - 2014.1</span></h5>
+										<p>I visited the University of HongKong as a researching assistant, in Prof. Wenping Wang's lab. The research is about surface approximation using Convolution Surface.</p><!--EMPLOYMENT LIST DETAILS-->
+									</li>
+									<li>
+										<!--EMPLOYMENT INDIVIDUAL LIST-->
+										<h5>Visiting USTC <span class="year">2014.3 - 2014.6</span></h5>
+										<p>I visited the University of Science and Technology of China to do my research on the Surface Approximation, in Prof. Falai Chen's lab. </p><!--EMPLOYMENT LIST DETAILS-->
+									</li>
+									<li>
+										<!--EMPLOYMENT INDIVIDUAL LIST-->
+										<h5>Visiting TAU <span class="year">2017.5</span></h5>
+										<p>I visited the Tel Aviv University to do my research on Shape Dissimilarity project, in Prof. Daniel Cohen-Or's lab.</p><!--EMPLOYMENT LIST DETAILS-->
+									</li>
+								</ul>
+							</div><!--RESUME THIRD TAB/EMPLYMENT TAB DETAILS ENDS-->
+					
+							
+							<!--RESUME THIRD TAB/EMPLYMENT TAB DETAILS ENDS-->
+							<div id='tab-3'>
+								<h3 class="title">AWARDS</h3>
+								<ul class="page-container no-padding">
+									<li>
+										<h4>Excellent Academic Achievement Award <span class="year">2017</span></h4>
+									</li>
+									<p></p>
+									<li>
+										<h4>“Smart match sticks”, excellent original project prize <span class="year">2012</span></h4>
+									</li>
+									<li>
+										<h4>“’Black box’ in cars”, third prize in Innovation Project Competition <span class="year">2011</span></h4>
+									</li>
+									<li>
+										<h4>First Class Scholarship of Excellent Student <span class="year">2010</span></h4>
+									</li>
+								</ul>
+							</div><!--RESUME THIRD TAB/EMPLYMENT TAB DETAILS ENDS-->
+						</div>
+					</div>
+				</li>
+				<!--/#resume-->
+				<!--PORTFOLIO PAGE-->
+				<li id="portfolio" class="hidden">
+					<div class="title-container">
+						<div class="shadow-img"></div>
+						<h2 class="rotate-out rotated">Publications</h2> <!--PORTFOLIO TITLE-->                         
+					</div>
+					
+					<div class ="sec-porfolio description"> 
+							<!--PORTFOLIO ITEM CONTAINER-->
+							<h3 class="title">One day I will fill this page with many publications...</h3>
+								<ul class="employment-class tab-cont">
+									<li>
+										<!--EMPLOYMENT INDIVIDUAL LIST-->
+										<p>Manyi Li, Falai Chen, Wenping Wang, Changhe Tu:</p>
+										<h5>Sparse RBF surface representations.</h5> <p>Computer Aided Geometric Design 48: 49-59 (2016)</p>
+									</li>
+								</ul>                   
+					</div>
+				</li><!--/#portfolio-->
+
+				<!--CONTACT PAGE-->
+				<li id="contact" class="hidden">
+					<div class="title-container" >
+						<div class="shadow-img"></div>               
+					   <h2 class="rotate-out rotated">Contact</h2><!--CONTACT PAGE TITLE-->
+					</div>
+					<div class="description">                           
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="map-container">
+									<div id="map" style="width:100%;height:325px;"></div>
+								</div>
+							</div>
+
+							<div class="col-sm-5">
+								<!--CONTACT DESCRIPTION-->
+								<h3 class="title">Contact Info</h3>
+								<!--<h6 class="sm-title"><span class="address-icon"><i class="fa fa-map-marker"></i></span>311B, Jalalabad, Sylhet</h6>-->
+								<h6 class="sm-title"><span class="address-icon"><i class="fa fa-phone"></i></span>+86 15216403215</h6>
+								<h6 class="sm-title"><span class="address-icon"><i class="fa fa-envelope"></i></span>manyi_li163@163.com</h6>
+								<!--/CONTACT DESCRIPTION ENDS-->
+							</div>                  
+								
+							</div>                          
+							
+						</div>
+					</div>
+				</li><!--/#contact-->
+			</ul> 
+
+			<!--<div class="row mobile-nav-container">
+				<ul class="mobile-social no-padding">
+					<li>Connect With Me</li>
+					<li><a href=""><i class="fa fa-facebook"></i></a></li>
+					<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+					<li><a href=""><i class="fa fa-youtube"></i></a></li>
+					<li><a href=""><i class="fa fa-pinterest-p"></i></a></li>
+					<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+				</ul>
+			</div>               
+		</div>--><!--/.page-segment -->
+		<!--  <h6 class="copyright-text">Copyright © 2015 John Doe</h6> --> <!--if anyone wants copyright Texts--> 
+	</div>
+</div><!--/.container -->
+
+
+<!--javascript files
+=============================================================-->
+<script type="text/javascript" src="js/jQueryTween-aio-min.js"></script> <!-- JQUERY Tween Plugin -->
+<script type="text/javascript" src="js/jquery.tabslet.min.js"></script> <!-- JQUERY Tab plugin-->     
+<script type="text/javascript" src="js/progressbar.min.js"></script> <!-- JQUERY Progressbar Plugin-->
+<script type="text/javascript" src="js/jquery.simple-text-rotator.min.js"></script> <!-- JQUERY Text Rotator-->
+<script type="text/javascript" src="js/bootstrap.min.js"></script> <!-- Bootstrap file-->
+<script src="http://ditu.google.cn/maps/api/js?key=AIzaSyBPNkCVoBW_Jzl6x-hgGU6e7QW1QMwKles"></script>
+<script type="text/javascript" src='js/isotope.pkgd.min.js'></script>
+<script type="text/javascript" src="js/custom.js"></script>
+</body>
+</html>
