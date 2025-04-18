@@ -269,7 +269,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
 
 **Language-driven synthesis of 3D scenes from scene databases**
 
-<a href="https://ruim-jlu.github.io/">Rui Ma#</a>
+<a href="https://ruim-jlu.github.io/">Rui Ma#</a>,
               <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil#</a>,
               <a href="https://techmatt.github.io/">Matthew Fisher</a>,
               **Manyi Li**,
@@ -280,9 +280,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
               <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-[**Paper**](./Publication/2018/T2S/t2s_final.pdf) 
-
-[**Project**](./Publication/2018/T2S/index.html)
+[**Paper**](./Publication/2018/T2S/t2s_final.pdf) \| [**Project**](./Publication/2018/T2S/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
