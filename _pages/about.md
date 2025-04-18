@@ -30,10 +30,10 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 研究领域为计算机图形学、三维视觉、人工智能等，主要关注三维室内场景的理解、生成与交互，包括三维物体重建与分割、形状分析与生成、场景布局生成与编辑、手-物交互生成等。曾在ACM Transactions on Graphics (TOG)、Siggraph、CVPR、ICCV、TVCG等顶级国际会议和期刊上发表论文十余篇。担任中国计算机学会计算机辅助设计与图形学专委会委员、中国工业与应用数学学会几何设计与计算专委会秘书处委员等。 目前主持国家自然科学基金青年项目、山东省优秀青年科学基金项目（海外）、山东大学未来计划等项目。获得2024年CCF科技成果自然科学一等奖、2022年ACM济南分会新星奖。
 
+<!-- # 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.   -->
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
