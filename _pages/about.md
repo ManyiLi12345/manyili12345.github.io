@@ -45,8 +45,6 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
-**Paper** \| **Project**
-
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
 </div>
@@ -59,8 +57,6 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
 Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 
-**Paper** \| **Project**
-
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
 </div>
@@ -72,8 +68,6 @@ Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 **FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**
 
 Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
-
-**Paper** \| **Project**
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -105,7 +99,7 @@ Xiang Li,
 <a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>, 
 Lei Wu, **Manyi Li**, Xiangxu Meng
 
-[**Paper**] \| [**Project**](https://moonlight03.github.io/DreamFont3D/)
+**Paper** \| [**Project**](https://moonlight03.github.io/DreamFont3D/)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
