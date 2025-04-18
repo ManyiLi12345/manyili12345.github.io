@@ -38,7 +38,7 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 # 📝 Publications 
 
 <!-- CGF 2025  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2025</div><img src='images/paper_imgs/2025_diffusion_model_for_point_clouds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive and Iterative Point Cloud Denoising with Score-Based Diffusion Model**
@@ -53,7 +53,7 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 </div>
 
 <!-- CVMJ 2025  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2025</div><img src='images/paper_imgs/2025_object_aware_transfer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Object-Aware Appearance Transfer for Interior Design**
@@ -67,7 +67,7 @@ Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 </div>
 
 <!-- CVPR 2025  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/paper_imgs/2025_freescene.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**
@@ -81,7 +81,7 @@ Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
 </div>
 
 <!-- AAAI 2025  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper_imgs/2025_hierarchical_scenes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model**
@@ -95,7 +95,7 @@ Weilin Sun, Xinran Li, **Manyi Li**, Kai Xu, Xiangxu Meng, Lei Meng
 </div>
 
 <!-- Siggraph 2024  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2024</div><img src='images/paper_imgs/2024_dreamfont.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DreamFont3D: Personalized Text-to-3D Artistic Font Generation**
@@ -109,7 +109,7 @@ Xiang Li, Lei Meng, Lei Wu, **Manyi Li**, Xiangxu Meng
 </div>
 
 <!-- CGF 2024  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2024</div><img src='images/paper_imgs/2024_scene_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**
@@ -123,7 +123,7 @@ Akshay Gadi Patil, Supriya Gadi Patil, **Manyi Li**, Matthew Fisher, Manolis Sav
 </div>
 
 <!-- Siggraph Asia 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/paper_imgs/2023_uvpack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Based 2D Irregular Shape Packing**
@@ -137,7 +137,7 @@ Zeshi Yang, Zherong Pan, **Manyi Li**, Kui Wu, Xifeng Gao
 </div>
 
 <!-- CVMJ 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2023</div><img src='images/paper_imgs/2023_dancepro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Let's all dance: Enhancing amateur dance motions**
@@ -151,7 +151,7 @@ Qiu Zhou#, **Manyi Li\#**, Qiong Zeng, Andreas Aristidou, Xiaojing Zhang, Lin Ch
 </div>
 
 <!-- TVCG 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Laplacian2mesh: Laplacian-based mesh understanding**
@@ -165,7 +165,7 @@ Qiujie Dong, Zixiong Wang, **Manyi Li**, Junjie Gao, Shuang-Min Chen, Zhenyu Shu
 </div>
 
 <!-- ICCV 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper_imgs/2023_afford_pose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose**
@@ -179,7 +179,7 @@ Juntao Jian, Xiuping Liu, **Manyi Li\***, Ruizhen Hu, Jian Liu*,
 </div>
 
 <!-- CVPR 2022  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/paper_imgs/2022_RIMNet_long.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rim-net: Recursive implicit fields for unsupervised learning of hierarchical shape structures**
@@ -193,7 +193,7 @@ Chengjie Niu, **Manyi Li**, Kai Xu, Hao Zhang
 </div>
 
 <!-- CVPR 2022  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/paper_imgs/2022_capri_net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly**
@@ -207,7 +207,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
 </div>
 
 <!-- CVPR 2021  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/paper_imgs/2021_d2im_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **D^2IM-Net: Learning Detail Disentangled Implicit Fields from Single Images**
@@ -221,7 +221,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
 </div>
 
 <!-- CVPR 2021  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/paper_imgs/2021_LayoutGMN_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LayoutGMN: Neural Graph Matching for Structural Layout Similarity**
@@ -235,7 +235,7 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
 </div>
 
 <!-- TOG 2019  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2019</div><img src='images/paper_imgs/2019_grains_image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GRAINS: Generative Recursive Autoencoders for INdoor Scenes**
@@ -249,7 +249,7 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
 </div>
 
 <!-- Siggraph Asia 2018  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2018</div><img src='images/paper_imgs/2018_T2S_image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Language-driven synthesis of 3D scenes from scene databases**
@@ -263,7 +263,7 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 </div>
 
 <!-- GMOD 2018  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/paper_imgs/2018_ShapeDist_image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Class-sensitive shape dissimilarity metric**
@@ -277,7 +277,7 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 </div>
 
 <!-- CAGD 2016  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/paper_imgs/2016_SparseRBF_image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sparse RBF surface representations**
