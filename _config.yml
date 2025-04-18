@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Manyi Li"
-description              : "Manyi's academic homepage"
+description              : "Associate Researcher"
 repository               : "ManyiLi12345/manyili12345.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Manyi"
+  name             : "Manyi Li"
   avatar           : "images/manyi.png"
   bio              : "Shandong University"
   location         : "Jinan, China"

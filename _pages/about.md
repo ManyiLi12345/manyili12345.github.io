@@ -299,13 +299,12 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 - **2024.12 - 2027.11**	National Key R&D Program of China (No. 2024YFB3309502), Participant
 
 # Educations
-- **09.2013 - 12.2018** PhD, Shandong University</li>
-- **09.2017 - 09.2018** Visiting PhD, Simon Fraser University</li>
-- **04.2017 - 05.2017** Visiting student, Tel Aviv University</li>
-- **03.2014 - 06.2014** Visiting student, University of Science and Technology of China</li>
-- **11.2013 - 01.2014** Research assistant, The University of Hong Kong</li>
+- **09.2013 - 12.2018** PhD, Shandong University
+- **09.2017 - 09.2018** Visiting PhD, Simon Fraser University
+- **04.2017 - 05.2017** Visiting student, Tel Aviv University
+- **03.2014 - 06.2014** Visiting student, University of Science and Technology of China
+- **11.2013 - 01.2014** Research assistant, The University of Hong Kong
 
-<span class='anchor' id='teaching'></span>
 # Teaching
 - **2023 - Now** Computer Graphics
 - **2023 - Now** Computer Animation
