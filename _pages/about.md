@@ -254,9 +254,18 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
 
 **Language-driven synthesis of 3D scenes from scene databases**
 
-Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son Hua, Sai-Kit Yeung, Xin Tong, Leonidas J. Guibas, Hao Zhang
+<a href="https://maruitx.github.io/">Rui Ma#</a>
+              <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil#</a>,
+              <a href="https://techmatt.github.io/">Matthew Fisher</a>,
+              **Manyi Li**,
+              <a href="https://storage.googleapis.com/pirk.io/index.html">Sören Pirk</a>,
+              <a href="http://sonhua.github.io/">Binh-Son Hua</a>,
+              <a href="http://www.saikit.org/">Sai-Kit Yeung</a>,
+              <a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>,
+              <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-**Paper** | **Project**
+[**Paper**](./Publication/2018/T2S/t2s_final.pdf) | [**Project**](./Publication/2018/T2S/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -268,9 +277,14 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 
 **Class-sensitive shape dissimilarity metric**
 
-**Manyi Li**, Noa Fish, Lili Cheng, Changhe Tu, Daniel Cohen-Or, Hao (Richard) Zhang, Baoquan Chen
+**Manyi Li**, <a href="https://www.cs.tau.ac.il/~noafish/">Noa Fish</a>,
+              Lili Cheng,
+              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
+              <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,  
+              <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>
 
-**Paper** | **Project**
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S1524070318300328?via%3Dihub)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
