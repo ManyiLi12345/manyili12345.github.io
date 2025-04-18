@@ -240,9 +240,19 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
 
 **GRAINS: Generative Recursive Autoencoders for INdoor Scenes**
 
-**Manyi Li**, Akshay Gadi Patil, Kai Xu, Siddhartha Chaudhuri, Owais Khan, Ariel Shamir, Changhe Tu, Baoquan Chen, Daniel Cohen-Or, Hao (Richard) Zhang
+**Manyi Li**,
+              <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>,
+              <a href="https://kevinkaixu.net/">Kai Xu</a>,
+              <a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>,
+              Owais Khan,
+              <a href="https://faculty.idc.ac.il/arik/site/index.asp">Ariel Shamir</a>,
+              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
+              <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
+              <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/1807.09193)
+[**Project**](./Publication/2018/GRAINS/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -254,7 +264,7 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
 
 **Language-driven synthesis of 3D scenes from scene databases**
 
-<a href="https://maruitx.github.io/">Rui Ma#</a>
+<a href="https://ruim-jlu.github.io/">Rui Ma#</a>
               <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil#</a>,
               <a href="https://techmatt.github.io/">Matthew Fisher</a>,
               **Manyi Li**,
@@ -265,7 +275,8 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
               <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-[**Paper**](./Publication/2018/T2S/t2s_final.pdf) | [**Project**](./Publication/2018/T2S/index.html)
+[**Paper**](./Publication/2018/T2S/t2s_final.pdf) 
+[**Project**](./Publication/2018/T2S/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
