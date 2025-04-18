@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Manyi Li"
 description              : "Manyi's academic homepage"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "ManyiLi12345/manyili12345.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Shandong University"
+  location         : "Jinan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=U_YYKJkAAAAJ&hl=zh-CN&oi=ao" 
+  email            : "manyili@sdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
