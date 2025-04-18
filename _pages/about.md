@@ -226,7 +226,11 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
 
 **LayoutGMN: Neural Graph Matching for Structural Layout Similarity**
 
-Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
+<a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>, 
+**Manyi Li**,
+              <a href="https://research.adobe.com/person/matt-fisher/">Matthew Fisher</a>,
+              <a href="http://msavva.github.io/">Manolis Savva</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
 **Paper** | **Project**
 
@@ -252,6 +256,7 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
 [**Paper**](https://arxiv.org/abs/1807.09193)
+
 [**Project**](./Publication/2018/GRAINS/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -276,6 +281,7 @@ Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
 [**Paper**](./Publication/2018/T2S/t2s_final.pdf) 
+
 [**Project**](./Publication/2018/T2S/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
