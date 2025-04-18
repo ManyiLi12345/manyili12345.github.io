@@ -291,7 +291,7 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 </div>
 
 
-# Grant
+# Grants
 - **2023.01 - 2025.12** Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
 - **2024.01 - 2026.12** Natural Science Foundation of Shandong Province (No. ZR2023QF077), PI
 - **2024.01 - 2026.12** National Natural Science Foundation of China (No.62302269), PI
