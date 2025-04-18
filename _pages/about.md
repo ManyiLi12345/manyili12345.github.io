@@ -52,6 +52,244 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 </div>
 </div>
 
+<!-- CVMJ 2025  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Object-Aware Appearance Transfer for Interior Design**
+
+Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVPR 2025  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**
+
+Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- AAAI 2025  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model**
+
+Weilin Sun, Xinran Li, **Manyi Li**, Kai Xu, Xiangxu Meng, Lei Meng
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- Siggraph 2024  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DreamFont3D: Personalized Text-to-3D Artistic Font Generation**
+
+Xiang Li, Lei Meng, Lei Wu, **Manyi Li**, Xiangxu Meng
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CGF 2024  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**
+
+Akshay Gadi Patil, Supriya Gadi Patil, **Manyi Li**, Matthew Fisher, Manolis Savva, Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- Siggraph Asia 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning Based 2D Irregular Shape Packing**
+
+Zeshi Yang, Zherong Pan, **Manyi Li**, Kui Wu, Xifeng Gao
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVMJ 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Let's all dance: Enhancing amateur dance motions**
+
+Qiu Zhou#, **Manyi Li\#**, Qiong Zeng, Andreas Aristidou, Xiaojing Zhang, Lin Chen, Changhe Tu
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- TVCG 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Laplacian2mesh: Laplacian-based mesh understanding**
+
+Qiujie Dong, Zixiong Wang, **Manyi Li**, Junjie Gao, Shuang-Min Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- ICCV 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose**
+
+Juntao Jian, Xiuping Liu, **Manyi Li\***, Ruizhen Hu, Jian Liu*,
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVPR 2022  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Rim-net: Recursive implicit fields for unsupervised learning of hierarchical shape structures**
+
+Chengjie Niu, **Manyi Li**, Kai Xu, Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVPR 2022  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly**
+
+Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVPR 2021  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**D^2IM-Net: Learning Detail Disentangled Implicit Fields from Single Images**
+
+**Manyi Li** and Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVPR 2021  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LayoutGMN: Neural Graph Matching for Structural Layout Similarity**
+
+Akshay Gadi Patil, **Manyi Li\***, Matthew Fisher, Manolis Savva, Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- TOG 2019  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GRAINS: Generative Recursive Autoencoders for INdoor Scenes**
+
+**Manyi Li**, Akshay Gadi Patil, Kai Xu, Siddhartha Chaudhuri, Owais Khan, Ariel Shamir, Changhe Tu, Baoquan Chen, Daniel Cohen-Or, Hao (Richard) Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- Siggraph Asia 2018  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Language-driven synthesis of 3D scenes from scene databases**
+
+Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son Hua, Sai-Kit Yeung, Xin Tong, Leonidas J. Guibas, Hao Zhang
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- GMOD 2018  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Class-sensitive shape dissimilarity metric**
+
+**Manyi Li**, Noa Fish, Lili Cheng, Changhe Tu, Daniel Cohen-Or, Hao (Richard) Zhang, Baoquan Chen
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CAGD 2016  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GMOD 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sparse RBF surface representations**
+
+**Manyi Li**, Falai Chen, Wenping Wang, Changhe Tu
+
+**Paper** | **Project**
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
 
 # Grant
 - **2023.01 - 2025.12** Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
