@@ -10,11 +10,11 @@ main:
     url: "/#-publications"
 
   - title: "Grants"
-    url: "/#-grants"
+    url: "/#grants"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 

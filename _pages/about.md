@@ -123,7 +123,7 @@ Akshay Gadi Patil, Supriya Gadi Patil, **Manyi Li**, Matthew Fisher, Manolis Sav
 </div>
 
 <!-- Siggraph Asia 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/paper_imgs/2023_uvpack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/paper_imgs/2023_uvpack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Based 2D Irregular Shape Packing**
