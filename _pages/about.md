@@ -45,8 +45,7 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
-**Paper** |
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+**Paper** \| **Project**
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -60,7 +59,7 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
 Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 
-**Paper** | **Project**
+**Paper** \| **Project**
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -74,7 +73,7 @@ Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 
 Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
 
-**Paper** | **Project**
+**Paper** \| **Project**
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -86,9 +85,11 @@ Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
 
 **Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model**
 
-Weilin Sun, Xinran Li, **Manyi Li**, Kai Xu, Xiangxu Meng, Lei Meng
+Weilin Sun, Xinran Li, **Manyi Li**, 
+<a href="https://kevinkaixu.net/">Kai Xu</a>, Xiangxu Meng, 
+<a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/2502.10675) \| [**Project**](https://github.com/SunWeiLin-Lynne/Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis/tree/main)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -100,9 +101,11 @@ Weilin Sun, Xinran Li, **Manyi Li**, Kai Xu, Xiangxu Meng, Lei Meng
 
 **DreamFont3D: Personalized Text-to-3D Artistic Font Generation**
 
-Xiang Li, Lei Meng, Lei Wu, **Manyi Li**, Xiangxu Meng
+Xiang Li, 
+<a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>, 
+Lei Wu, **Manyi Li**, Xiangxu Meng
 
-**Paper** | **Project**
+[**Paper**] \| [**Project**](https://moonlight03.github.io/DreamFont3D/)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -114,9 +117,14 @@ Xiang Li, Lei Meng, Lei Wu, **Manyi Li**, Xiangxu Meng
 
 **Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**
 
-Akshay Gadi Patil, Supriya Gadi Patil, **Manyi Li**, Matthew Fisher, Manolis Savva, Hao Zhang
+<a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>,
+		      Supriya Gadi Patil,
+		      **Manyi Li\***,
+		      <a href="https://techmatt.github.io/">Matthew Fisher</a>,
+		      <a href="http://msavva.github.io/">Manolis Savva</a>,
+		      <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/pdf/2304.03188.pdf) 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -128,37 +136,13 @@ Akshay Gadi Patil, Supriya Gadi Patil, **Manyi Li**, Matthew Fisher, Manolis Sav
 
 **Learning Based 2D Irregular Shape Packing**
 
-Zeshi Yang, Zherong Pan, **Manyi Li**, Kui Wu, Xifeng Gao
+<a href="https://zeshiyang.github.io/">Zeshi Yang</a>,
+		      <a>Zherong Pan</a>,
+		      **Manyi Li**,
+		      <a href="https://kuiwuchn.github.io/">Kui Wu</a>,
+		      <a href="https://gaoxifeng.github.io/">Xifeng Gao</a>,
 
-**Paper** | **Project**
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-</div>
-</div>
-
-<!-- CVMJ 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2023</div><img src='images/paper_imgs/2023_dancepro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Let's all dance: Enhancing amateur dance motions**
-
-Qiu Zhou#, **Manyi Li\#**, Qiong Zeng, Andreas Aristidou, Xiaojing Zhang, Lin Chen, Changhe Tu
-
-**Paper** | **Project**
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-</div>
-</div>
-
-<!-- TVCG 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Laplacian2mesh: Laplacian-based mesh understanding**
-
-Qiujie Dong, Zixiong Wang, **Manyi Li**, Junjie Gao, Shuang-Min Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang
-
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/pdf/2309.10329.pdf) 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -170,9 +154,48 @@ Qiujie Dong, Zixiong Wang, **Manyi Li**, Junjie Gao, Shuang-Min Chen, Zhenyu Shu
 
 **AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose**
 
-Juntao Jian, Xiuping Liu, **Manyi Li\***, Ruizhen Hu, Jian Liu*,
+Juntao Jian, Xiuping Liu, **Manyi Li\***, 
+<a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a>, 
+<a href="https://jianliu2006.github.io/ ">Jian Liu*</a>
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/pdf/2309.08942.pdf) \| [**Project**](https://github.com/GentlesJan/AffordPose)
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- CVMJ 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2023</div><img src='images/paper_imgs/2023_dancepro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Let's all dance: Enhancing amateur dance motions**
+
+Qiu Zhou#, **Manyi Li\#**, 
+<a href="https://qiongzn.github.io/">Qiong Zeng</a>,
+		      <a href="http://www.andreasaristidou.com/">Andreas Aristidou</a>, Xiaojing Zhang, Lin Chen, 
+          <a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+
+[**Paper**](http://irc.cs.sdu.edu.cn/dancepro/dance_cvm.pdf) \| [**Project**](http://irc.cs.sdu.edu.cn/dancepro/index.html)
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
+<!-- TVCG 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Laplacian2mesh: Laplacian-based mesh understanding**
+
+Qiujie Dong, 
+<a href="https://bearprin.com/">Zixiong Wang</a>, 
+**Manyi Li**, 
+Junjie Gao, Shuang-Min Chen, Zhenyu Shu, 
+<a href="https://irc.cs.sdu.edu.cn/~shiqing/index.html">Shiqing Xin</a>,
+		      <a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
+		      <a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>
+
+[**Paper**](https://arxiv.org/pdf/2202.00307.pdf) \| [**Project**](https://github.com/QiujieDong/Laplacian2Mesh)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
