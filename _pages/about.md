@@ -41,11 +41,11 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**daptive and Iterative Point Cloud Denoising with Score-Based Diffusion Model**
+**Adaptive and Iterative Point Cloud Denoising with Score-Based Diffusion Model**
 
 Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
-**Paper** 
+**Paper** |
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -54,20 +54,21 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
 
 # Grant
-- *2023.01 - 2025.12* Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
-- *2024.01 - 2026.12* Natural Science Foundation of Shandong Province (No. ZR2023QF077), PI
-- *2024.01 - 2026.12* National Natural Science Foundation of China (No.62302269), PI
-- *2024.11 - 2027.11* Embodied Intelligence Interaction Program from Leju Robotics, Participant
-- *2024.12 - 2027.11*	National Key R&D Program of China (No. 2024YFB3309502), Participant
+- **2023.01 - 2025.12** Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
+- **2024.01 - 2026.12** Natural Science Foundation of Shandong Province (No. ZR2023QF077), PI
+- **2024.01 - 2026.12** National Natural Science Foundation of China (No.62302269), PI
+- **2024.11 - 2027.11** Embodied Intelligence Interaction Program from Leju Robotics, Participant
+- **2024.12 - 2027.11**	National Key R&D Program of China (No. 2024YFB3309502), Participant
 
 # Educations
-- *09.2017 - 09.2018* Visiting PhD, Simon Fraser University</li>
-- *04.2017 - 05.2017* Visiting student, Tel Aviv University</li>
-- *03.2014 - 06.2014* Visiting student, University of Science and Technology of China</li>
-- *11.2013 - 01.2014* Research assistant, The University of Hong Kong</li>
+- **09.2013 - 12.2018** PhD, Shandong University</li>
+- **09.2017 - 09.2018** Visiting PhD, Simon Fraser University</li>
+- **04.2017 - 05.2017** Visiting student, Tel Aviv University</li>
+- **03.2014 - 06.2014** Visiting student, University of Science and Technology of China</li>
+- **11.2013 - 01.2014** Research assistant, The University of Hong Kong</li>
 
 # Teaching
-- *2023 - Now* Computer Graphics
-- *2023 - Now* Computer Animation
-- *2023 - Now* Graphical Design
-- *2022 - 2023* Principles and Techniques of Compilation
+- **2023 - Now** Computer Graphics
+- **2023 - Now** Computer Animation
+- **2023 - Now** Graphical Design
+- **2022 - 2023** Principles and Techniques of Compilation
