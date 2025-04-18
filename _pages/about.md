@@ -305,6 +305,7 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 - **03.2014 - 06.2014** Visiting student, University of Science and Technology of China
 - **11.2013 - 01.2014** Research assistant, The University of Hong Kong
 
+<span class='anchor' id='teaching'></span>
 # Teaching
 - **2023 - Now** Computer Graphics
 - **2023 - Now** Computer Animation
