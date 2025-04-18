@@ -184,9 +184,12 @@ Juntao Jian, Xiuping Liu, **Manyi Li\***, Ruizhen Hu, Jian Liu*,
 
 **Rim-net: Recursive implicit fields for unsupervised learning of hierarchical shape structures**
 
-Chengjie Niu, **Manyi Li**, Kai Xu, Hao Zhang
+<a href="https://chengjieniu.github.io/">Chengjie Niu</a>,
+              **Manyi Li**,
+              <a href="https://kevinkaixu.net/">Kai Xu</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/2201.12763) \| [**Project**](https://github.com/chengjieniu/RIM-Net)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -198,9 +201,15 @@ Chengjie Niu, **Manyi Li**, Kai Xu, Hao Zhang
 
 **CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly**
 
-Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang
+<a href="https://fenggenyu.github.io/">Fenggen Yu</a>,
+              <a href="https://czq142857.github.io/">Zhiqin Chen</a>,
+              **Manyi Li**,
+			  <a>Aditya Sanghi</a>,
+			  <a>Hooman Shayani</a>,
+              <a href="https://sites.google.com/site/alimahdaviamiri/home">Ali Mahdavi-Amiri</a>,
+              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/2104.05652) \| [**Project**](https://fenggenyu.github.io/capri.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -212,9 +221,9 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
 
 **D^2IM-Net: Learning Detail Disentangled Implicit Fields from Single Images**
 
-**Manyi Li** and Hao Zhang
+**Manyi Li** and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/2012.06650) \| [**Project**](https://github.com/ManyiLi12345/D2IM-Net)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -232,7 +241,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
               <a href="http://msavva.github.io/">Manolis Savva</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
-**Paper** | **Project**
+[**Paper**](https://arxiv.org/abs/2012.06547) \| [**Project**](https://github.com/akshaygadipatil/LayoutGMN-pytorch)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -255,9 +264,7 @@ Fenggen Yu, Zhiqin Chen, **Manyi Li**, Aditya Sanghi, Hooman Shayani, Ali Mahdav
               <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
-[**Paper**](https://arxiv.org/abs/1807.09193)
-
-[**Project**](./Publication/2018/GRAINS/index.html)
+[**Paper**](https://arxiv.org/abs/1807.09193) \| [**Project**](./Publication/2018/GRAINS/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
