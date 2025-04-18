@@ -282,9 +282,11 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 
 **Sparse RBF surface representations**
 
-**Manyi Li**, Falai Chen, Wenping Wang, Changhe Tu
+**Manyi Li**, <a href="http://staff.ustc.edu.cn/~chenfl/english.htm">Falai Chen</a>,
+              <a href="https://www.cs.hku.hk/people/academic-staff/wenping">Wenping Wang</a>,
+              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>
 
-**Paper** | **Project**
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0167839616300978?via%3Dihub) 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -305,7 +307,7 @@ Rui Ma, Akshay Gadi Patil, Matthew Fisher, **Manyi Li**, Sören Pirk, Binh-Son H
 - **03.2014 - 06.2014** Visiting student, University of Science and Technology of China
 - **11.2013 - 01.2014** Research assistant, The University of Hong Kong
 
-<span class='anchor' id='teaching'></span>
+
 # Teaching
 - **2023 - Now** Computer Graphics
 - **2023 - Now** Computer Animation
