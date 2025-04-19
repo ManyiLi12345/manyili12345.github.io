@@ -341,6 +341,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0167839616300978?via%3Dihub) 
 
+Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
+
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
 </div>
