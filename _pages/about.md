@@ -226,6 +226,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="https://sites.google.com/site/alimahdaviamiri/home">Ali Mahdavi-Amiri</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
+CVPR 2022 (CCF-A)
+
 [**Paper**](https://arxiv.org/abs/2104.05652) \| [**Project**](https://fenggenyu.github.io/capri.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -239,6 +241,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
 **D^2IM-Net: Learning Detail Disentangled Implicit Fields from Single Images**
 
 **Manyi Li** and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
+
+CVPR 2021 (CCF-A)
 
 [**Paper**](https://arxiv.org/abs/2012.06650) \| [**Project**](https://github.com/ManyiLi12345/D2IM-Net)
 
@@ -254,9 +258,9 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
 
 <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>, 
 **Manyi Li**,
-              <a href="https://research.adobe.com/person/matt-fisher/">Matthew Fisher</a>,
-              <a href="http://msavva.github.io/">Manolis Savva</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
+<a href="https://research.adobe.com/person/matt-fisher/">Matthew Fisher</a>,
+<a href="http://msavva.github.io/">Manolis Savva</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
 CVPR 2021 (CCF-A)
 
@@ -273,15 +277,15 @@ CVPR 2021 (CCF-A)
 **GRAINS: Generative Recursive Autoencoders for INdoor Scenes**
 
 **Manyi Li**,
-              <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>,
-              <a href="https://kevinkaixu.net/">Kai Xu</a>,
-              <a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>,
-              Owais Khan,
-              <a href="https://faculty.idc.ac.il/arik/site/index.asp">Ariel Shamir</a>,
-              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
-              <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
-              <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+<a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>,
+<a href="https://kevinkaixu.net/">Kai Xu</a>,
+<a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>,
+Owais Khan,
+<a href="https://faculty.idc.ac.il/arik/site/index.asp">Ariel Shamir</a>,
+<a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
+<a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
+<a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
 ACM Transactions on Graphics (TOG), 2019, 38(2): 1-16 (SCI, CCF-A, JCR1, Top)
 
@@ -298,15 +302,15 @@ ACM Transactions on Graphics (TOG), 2019, 38(2): 1-16 (SCI, CCF-A, JCR1, Top)
 **Language-driven synthesis of 3D scenes from scene databases**
 
 <a href="https://ruim-jlu.github.io/">Rui Ma#</a>,
-              <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil#</a>,
-              <a href="https://techmatt.github.io/">Matthew Fisher</a>,
-              **Manyi Li**,
-              <a href="https://storage.googleapis.com/pirk.io/index.html">Sören Pirk</a>,
-              <a href="http://sonhua.github.io/">Binh-Son Hua</a>,
-              <a href="http://www.saikit.org/">Sai-Kit Yeung</a>,
-              <a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>,
-              <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+<a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil#</a>,
+<a href="https://techmatt.github.io/">Matthew Fisher</a>,
+**Manyi Li**,
+<a href="https://storage.googleapis.com/pirk.io/index.html">Sören Pirk</a>,
+<a href="http://sonhua.github.io/">Binh-Son Hua</a>,
+<a href="http://www.saikit.org/">Sai-Kit Yeung</a>,
+<a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>,
+<a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
 ACM Transactions on Graphics (TOG), 2018, 37(6): 1-16 (SCI, CCF-A, JCR1, Top)
 
@@ -322,12 +326,13 @@ ACM Transactions on Graphics (TOG), 2018, 37(6): 1-16 (SCI, CCF-A, JCR1, Top)
 
 **Class-sensitive shape dissimilarity metric**
 
-**Manyi Li**, <a href="https://www.cs.tau.ac.il/~noafish/">Noa Fish</a>,
-              Lili Cheng,
-              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
-              <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,  
-              <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>
+**Manyi Li**, 
+<a href="https://www.cs.tau.ac.il/~noafish/">Noa Fish</a>,
+Lili Cheng,
+<a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>,
+<a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+<a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>
 
 Graphical Models 98: 33-42 (2018) (SCI, CCF-B, JCR2)
 
@@ -344,8 +349,8 @@ Graphical Models 98: 33-42 (2018) (SCI, CCF-B, JCR2)
 **Sparse RBF surface representations**
 
 **Manyi Li**, <a href="http://staff.ustc.edu.cn/~chenfl/english.htm">Falai Chen</a>,
-              <a href="https://www.cs.hku.hk/people/academic-staff/wenping">Wenping Wang</a>,
-              <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>
+<a href="https://www.cs.hku.hk/people/academic-staff/wenping">Wenping Wang</a>,
+<a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>
 
 Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
 
