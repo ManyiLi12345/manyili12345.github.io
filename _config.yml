@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Manyi Li. Associate Researcher @ Shandong University"
+title                    : "Manyi Li. Associate Researcher at Shandong University"
 description              : "The understanding, generation, and interaction of 3D indoor scenes."
 repository               : "ManyiLi12345/manyili12345.github.io"
 google_scholar_stats_use_cdn : true
