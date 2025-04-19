@@ -99,6 +99,8 @@ Xiang Li,
 <a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>, 
 Lei Wu, **Manyi Li**, Xiangxu Meng
 
+S
+
 **Paper** \| [**Project**](https://moonlight03.github.io/DreamFont3D/)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -112,11 +114,13 @@ Lei Wu, **Manyi Li**, Xiangxu Meng
 **Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**
 
 <a href="http://www.sfu.ca/~agadipat/">Akshay Gadi Patil</a>,
-		      Supriya Gadi Patil,
-		      **Manyi Li\***,
-		      <a href="https://techmatt.github.io/">Matthew Fisher</a>,
-		      <a href="http://msavva.github.io/">Manolis Savva</a>,
-		      <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+Supriya Gadi Patil,
+**Manyi Li\***,
+<a href="https://techmatt.github.io/">Matthew Fisher</a>,
+<a href="http://msavva.github.io/">Manolis Savva</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+
+Comput. Graph. Forum 43(1) (2024) (SCI, CCF-B, JCR2)
 
 [**Paper**](https://arxiv.org/pdf/2304.03188.pdf) 
 
@@ -136,6 +140,8 @@ Lei Wu, **Manyi Li**, Xiangxu Meng
 		      <a href="https://kuiwuchn.github.io/">Kui Wu</a>,
 		      <a href="https://gaoxifeng.github.io/">Xifeng Gao</a>,
 
+ACM Transactions on Graphics, Volume 42, Article 6 (Proc. ACM SIGGRAPH Aisa 2023) (SCI, CCF-A, JCR1, Top)
+
 [**Paper**](https://arxiv.org/pdf/2309.10329.pdf) 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -152,6 +158,8 @@ Juntao Jian, Xiuping Liu, **Manyi Li\***,
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a>, 
 <a href="https://jianliu2006.github.io/ ">Jian Liu*</a>
 
+ICCV 2023 (CCF-A)
+
 [**Paper**](https://arxiv.org/pdf/2309.08942.pdf) \| [**Project**](https://github.com/GentlesJan/AffordPose)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -166,8 +174,10 @@ Juntao Jian, Xiuping Liu, **Manyi Li\***,
 
 Qiu Zhou#, **Manyi Li\#**, 
 <a href="https://qiongzn.github.io/">Qiong Zeng</a>,
-		      <a href="http://www.andreasaristidou.com/">Andreas Aristidou</a>, Xiaojing Zhang, Lin Chen, 
-          <a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+<a href="http://www.andreasaristidou.com/">Andreas Aristidou</a>, Xiaojing Zhang, Lin Chen, 
+<a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+
+Comput. Vis. Media 9(3): 531-550 (2023) (SCI, CCF-C, JCR1)
 
 [**Paper**](http://irc.cs.sdu.edu.cn/dancepro/dance_cvm.pdf) \| [**Project**](http://irc.cs.sdu.edu.cn/dancepro/index.html)
 
@@ -186,8 +196,10 @@ Qiujie Dong,
 **Manyi Li**, 
 Junjie Gao, Shuang-Min Chen, Zhenyu Shu, 
 <a href="https://irc.cs.sdu.edu.cn/~shiqing/index.html">Shiqing Xin</a>,
-		      <a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
-		      <a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>
+<a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
+<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>
+
+IEEE . 30(7): 4349-4361 (2024) (SCI, CCF-A, JCR1, 高被引论文收录)
 
 [**Paper**](https://arxiv.org/pdf/2202.00307.pdf) \| [**Project**](https://github.com/QiujieDong/Laplacian2Mesh)
 
@@ -202,9 +214,11 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
 **Rim-net: Recursive implicit fields for unsupervised learning of hierarchical shape structures**
 
 <a href="https://chengjieniu.github.io/">Chengjie Niu</a>,
-              **Manyi Li**,
-              <a href="https://kevinkaixu.net/">Kai Xu</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+**Manyi Li**,
+<a href="https://kevinkaixu.net/">Kai Xu</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+
+CVPR 2022 (CCF-A)
 
 [**Paper**](https://arxiv.org/abs/2201.12763) \| [**Project**](https://github.com/chengjieniu/RIM-Net)
 
@@ -219,12 +233,12 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
 **CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly**
 
 <a href="https://fenggenyu.github.io/">Fenggen Yu</a>,
-              <a href="https://czq142857.github.io/">Zhiqin Chen</a>,
-              **Manyi Li**,
-			  <a>Aditya Sanghi</a>,
-			  <a>Hooman Shayani</a>,
-              <a href="https://sites.google.com/site/alimahdaviamiri/home">Ali Mahdavi-Amiri</a>,
-              <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
+<a href="https://czq142857.github.io/">Zhiqin Chen</a>,
+**Manyi Li**,
+<a>Aditya Sanghi</a>,
+<a>Hooman Shayani</a>,
+<a href="https://sites.google.com/site/alimahdaviamiri/home">Ali Mahdavi-Amiri</a>,
+<a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
 CVPR 2022 (CCF-A)
 
