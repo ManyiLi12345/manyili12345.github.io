@@ -385,19 +385,19 @@ Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
 
 
 # Grants
-- **2023.01 - 2025.12** Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
-- **2024.01 - 2026.12** Natural Science Foundation of Shandong Province (No. ZR2023QF077), PI
-- **2024.01 - 2026.12** National Natural Science Foundation of China (No.62302269), PI
-- **2024.11 - 2027.11** Embodied Intelligence Interaction Program from Leju Robotics, Participant
-- **2024.12 - 2027.11**	National Key R&D Program of China (No. 2024YFB3309502), Participant
+- **2023.01 - 2025.12**  Excellent Young Scientists Fund Program (Overseas) of Shandong Province (No.2023HWYQ-034), PI
+- **2024.01 - 2026.12**  Natural Science Foundation of Shandong Province (No. ZR2023QF077), PI
+- **2024.01 - 2026.12**  National Natural Science Foundation of China (No.62302269), PI
+- **2024.11 - 2027.11**  Embodied Intelligence Interaction Program from Leju Robotics, Participant
+- **2024.12 - 2027.11**  National Key R&D Program of China (No. 2024YFB3309502), Participant
 
 # Educations
-- **09.2013 - 12.2018** PhD, Shandong University
-- **09.2017 - 09.2018** Visiting PhD, Simon Fraser University
-- **04.2017 - 05.2017** Visiting student, Tel Aviv University
-- **03.2014 - 06.2014** Visiting student, University of Science and Technology of China
-- **11.2013 - 01.2014** Research assistant, The University of Hong Kong
-
+- **2013.09 - 2018.12** PhD, Shandong University
+- **2017.09 - 2018.09** Visiting PhD, Simon Fraser University
+- **2017.04 - 2017.05** Visiting student, Tel Aviv University
+- **2014.03 - 2014.06** Visiting student, University of Science and Technology of China
+- **2013.11 - 2014.01** Research assistant, The University of Hong Kong
+- **2009.09 - 2023.06** Undergraduate, Shandong University
 
 # Teaching
 - **2023 - Now** Computer Graphics
