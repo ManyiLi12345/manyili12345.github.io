@@ -258,6 +258,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="http://msavva.github.io/">Manolis Savva</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
 
+CVPR 2021 (CCF-A)
+
 [**Paper**](https://arxiv.org/abs/2012.06547) \| [**Project**](https://github.com/akshaygadipatil/LayoutGMN-pytorch)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -280,6 +282,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
               <a href="https://www.cs.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
+
+ACM Transactions on Graphics (TOG), 2019, 38(2): 1-16 (SCI, CCF-A, JCR1, Top)
 
 [**Paper**](https://arxiv.org/abs/1807.09193) \| [**Project**](./Publication/2018/GRAINS/index.html)
 
@@ -304,6 +308,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,
 
+ACM Transactions on Graphics (TOG), 2018, 37(6): 1-16 (SCI, CCF-A, JCR1, Top)
+
 [**Paper**](./Publication/2018/T2S/t2s_final.pdf) \| [**Project**](./Publication/2018/T2S/index.html)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -323,6 +329,8 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>,  
               <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>
 
+Graphical Models 98: 33-42 (2018) (SCI, CCF-B, JCR2)
+
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S1524070318300328?via%3Dihub)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
@@ -339,9 +347,10 @@ Junjie Gao, Shuang-Min Chen, Zhenyu Shu,
               <a href="https://www.cs.hku.hk/people/academic-staff/wenping">Wenping Wang</a>,
               <a href="http://irc.cs.sdu.edu.cn/~chtu/">Changhe Tu</a>
 
+Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
+
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0167839616300978?via%3Dihub) 
 
-Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
