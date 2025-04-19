@@ -45,6 +45,8 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
+Comput. Graph. Forum (2025) (SCI, CCF-B, JCR2)
+
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
 </div>
@@ -57,6 +59,8 @@ Zhaonan Wang , **Manyi Li\***, Shiqing Xin , Changhe Tu
 
 Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 
+Comput. Vis. Media Journal (2025) (SCI, CCF-C, JCR1)
+
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
 </div>
@@ -68,6 +72,8 @@ Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 **FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**
 
 Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
+
+CVPR 2025 (CCF-A)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
@@ -82,6 +88,8 @@ Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
 Weilin Sun, Xinran Li, **Manyi Li**, 
 <a href="https://kevinkaixu.net/">Kai Xu</a>, Xiangxu Meng, 
 <a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>
+
+AAAI 2025 (CCF-A)
 
 [**Paper**](https://arxiv.org/abs/2502.10675) \| [**Project**](https://github.com/SunWeiLin-Lynne/Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis/tree/main)
 
@@ -99,7 +107,7 @@ Xiang Li,
 <a href="https://ercdm.sdu.edu.cn/info/1013/1523.htm">Lei Meng</a>, 
 Lei Wu, **Manyi Li**, Xiangxu Meng
 
-S
+Siggraph 2024 (Conference Track) (CCF-A)
 
 **Paper** \| [**Project**](https://moonlight03.github.io/DreamFont3D/)
 
