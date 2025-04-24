@@ -136,8 +136,8 @@ Comput. Graph. Forum 43(1) (2024) (SCI, CCF-B, JCR2)
 </div>
 </div>
 
-<!-- TVCG 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
+<!-- TVCG 2024  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Laplacian2mesh: Laplacian-based mesh understanding**
