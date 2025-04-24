@@ -136,6 +136,28 @@ Comput. Graph. Forum 43(1) (2024) (SCI, CCF-B, JCR2)
 </div>
 </div>
 
+<!-- TVCG 2023  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Laplacian2mesh: Laplacian-based mesh understanding**
+
+Qiujie Dong, 
+<a href="https://bearprin.com/">Zixiong Wang</a>, 
+**Manyi Li**, 
+Junjie Gao, Shuang-Min Chen, Zhenyu Shu, 
+<a href="https://irc.cs.sdu.edu.cn/~shiqing/index.html">Shiqing Xin</a>,
+<a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
+<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>
+
+IEEE . 30(7): 4349-4361 (2024) (SCI, CCF-A, JCR1, 高被引论文收录)
+
+[**Paper**](https://arxiv.org/pdf/2202.00307.pdf) \| [**Project**](https://github.com/QiujieDong/Laplacian2Mesh)
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
+
 <!-- Siggraph Asia 2023  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2024</div><img src='images/paper_imgs/2023_uvpack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,28 +210,6 @@ Qiu Zhou#, **Manyi Li\#**,
 Comput. Vis. Media 9(3): 531-550 (2023) (SCI, CCF-C, JCR1)
 
 [**Paper**](http://irc.cs.sdu.edu.cn/dancepro/dance_cvm.pdf) \| [**Project**](http://irc.cs.sdu.edu.cn/dancepro/index.html)
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-</div>
-</div>
-
-<!-- TVCG 2023  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper_imgs/2023_laplacian2mesh.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Laplacian2mesh: Laplacian-based mesh understanding**
-
-Qiujie Dong, 
-<a href="https://bearprin.com/">Zixiong Wang</a>, 
-**Manyi Li**, 
-Junjie Gao, Shuang-Min Chen, Zhenyu Shu, 
-<a href="https://irc.cs.sdu.edu.cn/~shiqing/index.html">Shiqing Xin</a>,
-<a href="http://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
-<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>
-
-IEEE . 30(7): 4349-4361 (2024) (SCI, CCF-A, JCR1, 高被引论文收录)
-
-[**Paper**](https://arxiv.org/pdf/2202.00307.pdf) \| [**Project**](https://github.com/QiujieDong/Laplacian2Mesh)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
