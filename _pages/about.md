@@ -37,6 +37,32 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 # 📝 Publications 
 
+<!-- ICCV 2025  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/2025_AG2aussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AG^2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing**
+
+Zhaonan Wang, **Manyi Li\***, Changhe Tu 
+
+ICCV 2025 (CCF-A)
+</div>
+</div>
+
+<!-- ICCV 2025  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/2025_G-DexGrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation**
+
+Juntao Jian, Xiuping Liu, Zixuan Chen, **Manyi Li\***, 
+<a href="https://jianliu2006.github.io/ ">Jian Liu*</a>,
+<a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a>
+
+ICCV 2025 (CCF-A)
+</div>
+</div>
+
 <!-- CGF 2025  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF 2025</div><img src='images/paper_imgs/2025_diffusion_model_for_point_clouds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
