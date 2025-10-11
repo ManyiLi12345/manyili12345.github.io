@@ -423,7 +423,7 @@ Computer Aided Geometric Design 48: 49-59 (2016) (SCI, CCF-B, JCR2, Top)
 - **2017.04 - 2017.05** Visiting student, Tel Aviv University
 - **2014.03 - 2014.06** Visiting student, University of Science and Technology of China
 - **2013.11 - 2014.01** Research assistant, The University of Hong Kong
-- **2009.09 - 2023.06** Undergraduate, Shandong University
+- **2009.09 - 2013.06** Undergraduate, Shandong University
 
 # Teaching
 - **2023 - Now** Computer Graphics
