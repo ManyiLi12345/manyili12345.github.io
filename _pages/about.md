@@ -2,18 +2,11 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -48,7 +41,7 @@ Haoran Chen†, Yiteng Xu†, Yiming Ren, Yaoqin Ye, Xinran Li, Ning Ding, Yuxua
 Xiaokun Leng,
 **Manyi Li\***,
 <a href="https://yuexinma.me/">Yuexin Ma*</a>,
-<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu*</a>,
+<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
 
 Siggraph Asia 2025 (CCF-A)
 </div>
