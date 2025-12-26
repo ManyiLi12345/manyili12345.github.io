@@ -37,6 +37,23 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 # 📝 Publications 
 
+<!-- Siggraph Asia 2026  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis**
+
+Haoran Chen, Yiteng Xu, Yiming Ren, Yaoqin Ye, Xinran Li, Ning Ding, Yuxuan Wu, Yaoze Liu, Peishan Cong, Ziyi Wang, Bushi Liu, Yuhan Chen, 
+<a href="https://frank-zy-dou.github.io/">Zhiyang Dou</a>,
+Xiaokun Leng,
+**Manyi Li\***,
+<a href="https://yuexinma.me/">Yuexin Ma*</a>,
+<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu*</a>,
+
+Siggraph Asia 2025 (CCF-A)
+</div>
+</div>
+
 <!-- ICCV 2025  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/2025_AG2aussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
