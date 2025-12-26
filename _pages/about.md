@@ -41,7 +41,7 @@ Haoran Chen†, Yiteng Xu†, Yiming Ren, Yaoqin Ye, Xinran Li, Ning Ding, Yuxua
 Xiaokun Leng,
 **Manyi Li\***,
 <a href="https://yuexinma.me/">Yuexin Ma*</a>,
-<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>,
+<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
 
 Siggraph Asia 2025 (CCF-A)
 </div>
@@ -107,7 +107,7 @@ Comput. Vis. Media Journal (2025) (SCI, CCF-C, JCR1)
 
 **FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**
 
-Tongyuan Bai， Wangyuanfan Bai， Dong Chen， Tieru Wu, **Manyi Li**， Rui Ma
+Tongyuan Bai, Wangyuanfan Bai, Dong Chen, Tieru Wu, **Manyi Li**, Rui Ma
 
 CVPR 2025 (CCF-A)
 
