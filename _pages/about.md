@@ -70,6 +70,7 @@ Junhao Chen, **Manyi Li\***,
 <a href="https://dyingbrain.github.io/">Zherong Pan</a>,
 <a href="https://gaoxifeng.github.io/">Xifeng Gao</a>,
 <a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+
 Comput. Vis. Media Journal (SCI, CCF-C, JCR1)
 
 [**Paper**](https://arxiv.org/abs/2406.18588) \| [**Project**]
