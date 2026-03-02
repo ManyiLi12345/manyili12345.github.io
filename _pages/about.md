@@ -41,7 +41,7 @@ Xuelu Li†, Zhaonan Wang†, Xiaogang Wang*, Lei Wu,
 
 CVPR 2026 (CCF-A)
 
-[**Paper**](https://arxiv.org/abs/2602.22666v1) \| [**Project**]
+[**Paper**](https://arxiv.org/abs/2602.22666v1) 
 </div>
 </div>
 
@@ -73,7 +73,7 @@ Junhao Chen, **Manyi Li\***,
 
 Comput. Vis. Media Journal (SCI, CCF-C, JCR1)
 
-[**Paper**](https://arxiv.org/abs/2406.18588) \| [**Project**]
+[**Paper**](https://arxiv.org/abs/2406.18588) 
 
 </div>
 </div>
