@@ -52,7 +52,7 @@ CVPR 2026 (CCF-A)
 **BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Model**
 
 Juan Fang, 
-<a href="https://jianliu2006.github.io/ ">Jian Liu*</a>,
+<a href="https://jianliu2006.github.io/ ">Jian Liu</a>,
 Lei Wu,
 **Manyi Li\***
 
