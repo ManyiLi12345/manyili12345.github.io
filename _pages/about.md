@@ -30,7 +30,7 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 # 📝 Publications 
 <!-- CVPR 2026  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/2026_artpro_cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals**
@@ -44,7 +44,7 @@ CVPR 2026 (CCF-A)
 </div>
 
 <!-- CVM 2026  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM 2026</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM 2026</div><img src='images/paper_imgs/2026_bipart_cvm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Model**
@@ -59,7 +59,7 @@ CVM 2026 (CCF-C, recommended to TVCG)
 </div>
 
 <!-- CVMJ 2026  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2026</div><img src='images/paper_imgs/2025_object_aware_transfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2026</div><img src='images/paper_imgs/2026_varying_manifold_cvmj.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Varying Manifolds in Diffusion: From Time-varying Geometries to Visual Saliency**
