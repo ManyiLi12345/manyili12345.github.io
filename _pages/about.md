@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an associate researcher at the School of Software, Shandong University. Before my current position, I was a postdoc working with <a href="https://www.cs.sfu.ca/~haoz/">Prof. Hao (Richard) Zhang</a> in <a href="https://gruvi.cs.sfu.ca/">GrUVi Lab</a> at Simon Fraser University, Canada. I was also a intern research scientist in <a href="https://ips-ai.com/">Intelligent Project Solutions Inc.</a> working on Layout digitalization and editing projects. I got my Ph.D degree on December 2018 from Shandong University, supervised by <a href="http://irc.cs.sdu.edu.cn/~chtu/">Prof. Changhe Tu</a>. During my Ph.D career, I have visited and collaborated closely with 
+I am now an associate professor at the School of Software, Shandong University. Before my current position, I was a postdoc working with <a href="https://www.cs.sfu.ca/~haoz/">Prof. Hao (Richard) Zhang</a> in <a href="https://gruvi.cs.sfu.ca/">GrUVi Lab</a> at Simon Fraser University, Canada. I was also a intern research scientist in <a href="https://ips-ai.com/">Intelligent Project Solutions Inc.</a> working on Layout digitalization and editing projects. I got my Ph.D degree on December 2018 from Shandong University, supervised by <a href="http://irc.cs.sdu.edu.cn/~chtu/">Prof. Changhe Tu</a>. During my Ph.D career, I have visited and collaborated closely with 
                 <a href="https://www.cs.sfu.ca/~haoz/">Prof. Hao (Richard) Zhang</a> (supported by 
                 <a href="https://www.chinesescholarshipcouncil.com/">China Scholarship Council (CSC)</a>),
                 <a href="http://www.math.tau.ac.il/~dcor/">Prof. Daniel Cohen-Or</a>,
@@ -19,7 +19,7 @@ I am now an associate researcher at the School of Software, Shandong University.
 
 My research field lies in Computer Graphics and Computer Vision. More specifically, my research interest focuses on the understanding, generation, and interaction of 3D indoor scenes, including object reconstruction and segmentation, 3D shape analysis and generation, scene layout synthesis and editing, hand-object interaction generation, etc.
 
-李曼祎，山东大学软件学院人机交互与虚拟现实中心副研究员，硕士生导师。2018年12月获得山东大学工学博士学位，导师为屠长河教授。读博期间曾在香港大学、中国科学技术大学、特拉维夫大学、西蒙弗雷泽大学交流访问。2019-2021年在加拿大西蒙弗雷泽大学GrUVi实验室从事博士后研究，导师为Hao (Richard) Zhang教授。
+李曼祎，山东大学软件学院人机交互与虚拟现实中心副教授，硕士生导师。2018年12月获得山东大学工学博士学位，导师为屠长河教授。读博期间曾在香港大学、中国科学技术大学、特拉维夫大学、西蒙弗雷泽大学交流访问。2019-2021年在加拿大西蒙弗雷泽大学GrUVi实验室从事博士后研究，导师为Hao (Richard) Zhang教授。
 
 研究领域为计算机图形学、三维视觉、人工智能等，主要关注三维室内场景的理解、生成与交互，包括三维物体重建与分割、形状分析与生成、场景布局生成与编辑、手-物交互生成等。曾在ACM Transactions on Graphics (TOG)、Siggraph、CVPR、ICCV、TVCG等顶级国际会议和期刊上发表论文十余篇。担任中国计算机学会计算机辅助设计与图形学专委会委员、中国工业与应用数学学会几何设计与计算专委会秘书处委员等。 目前主持国家自然科学基金青年项目、山东省优秀青年科学基金项目（海外）、山东大学未来计划等项目。获得2024年CCF科技成果自然科学一等奖、2022年ACM济南分会新星奖。
 
@@ -29,6 +29,50 @@ My research field lies in Computer Graphics and Computer Vision. More specifical
 
 
 # 📝 Publications 
+<!-- CVPR 2026  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals**
+
+Xuelu Li†, Zhaonan Wang†, Xiaogang Wang*, Lei Wu,
+**Manyi Li\***,
+<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+
+CVPR 2026 (CCF-A)
+</div>
+</div>
+
+<!-- CVM 2026  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM 2026</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Model**
+
+Juan Fang, 
+<a href="https://jianliu2006.github.io/ ">Jian Liu*</a>,
+Lei Wu,
+**Manyi Li\***
+
+CVM 2026 (CCF-C, recommended to TVCG)
+</div>
+</div>
+
+<!-- CVMJ 2026  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2026</div><img src='images/paper_imgs/2025_object_aware_transfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Varying Manifolds in Diffusion: From Time-varying Geometries to Visual Saliency**
+
+Junhao Chen, **Manyi Li\***, 
+<a href="https://dyingbrain.github.io/">Zherong Pan</a>,
+<a href="https://gaoxifeng.github.io/">Xifeng Gao</a>,
+<a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
+Comput. Vis. Media Journal (SCI, CCF-C, JCR1)
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+</div>
+</div>
 
 <!-- Siggraph Asia 2026  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2025</div><img src='images/paper_imgs/2025_symbridge_siga.png' alt="sym" width="100%"></div></div>
@@ -95,7 +139,7 @@ Comput. Graph. Forum (2025) (SCI, CCF-B, JCR2)
 
 Ruisi Ye, **Manyi Li\***, Xifeng Gao, Changhe Tu
 
-Comput. Vis. Media Journal (2025) (SCI, CCF-C, JCR1)
+Comput. Vis. Media Journal (SCI, CCF-C, JCR1)
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 </div>
