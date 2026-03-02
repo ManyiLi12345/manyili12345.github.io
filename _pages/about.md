@@ -40,6 +40,8 @@ Xuelu Li†, Zhaonan Wang†, Xiaogang Wang*, Lei Wu,
 <a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
 
 CVPR 2026 (CCF-A)
+
+[**Paper**](https://arxiv.org/abs/2602.22666v1) \| [**Project**]
 </div>
 </div>
 
@@ -70,7 +72,8 @@ Junhao Chen, **Manyi Li\***,
 <a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
 Comput. Vis. Media Journal (SCI, CCF-C, JCR1)
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+[**Paper**](https://arxiv.org/abs/2406.18588) \| [**Project**]
+
 </div>
 </div>
 
@@ -88,6 +91,8 @@ Xiaokun Leng,
 <a href="https://irc.cs.sdu.edu.cn/~chtu/index.html">Changhe Tu</a>
 
 Siggraph Asia 2025 (CCF-A)
+
+[**Paper**](https://arxiv.org/abs/2502.07358) \| [**Project**](https://irc-vitahome.github.io/SymBridge/)
 </div>
 </div>
 
@@ -100,6 +105,8 @@ Siggraph Asia 2025 (CCF-A)
 Zhaonan Wang, **Manyi Li\***, Changhe Tu 
 
 ICCV 2025 (CCF-A)
+
+[**Paper**](https://arxiv.org/abs/2508.01740v1) \| [**Project**](https://github.com/DyllanElliia/AGGaussian?tab=readme-ov-file)
 </div>
 </div>
 
@@ -114,6 +121,8 @@ Juntao Jian, Xiuping Liu, Zixuan Chen, **Manyi Li\***,
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a>
 
 ICCV 2025 (CCF-A)
+
+[**Paper**](https://arxiv.org/abs/2503.19457) \| [**Project**](https://g-dexgrasp.github.io/)
 </div>
 </div>
 
@@ -155,7 +164,7 @@ Tongyuan Bai, Wangyuanfan Bai, Dong Chen, Tieru Wu, **Manyi Li**, Rui Ma
 
 CVPR 2025 (CCF-A)
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+[**Paper**](https://arxiv.org/abs/2506.02781) \| [**Project**](https://github.com/mushui-ty/FreeScene)
 </div>
 </div>
 
